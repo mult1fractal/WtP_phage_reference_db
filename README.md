@@ -1,3 +1,4 @@
+## This git is for WtP-versions **until -v0.8.2**
 * splitted DB from here: 
 * wget http://147.8.185.62/VirMiner/downloads/phage_genome/public_phage_genomes.fasta
 * [Link to paper](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0657-y)
